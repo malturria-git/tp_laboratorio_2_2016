@@ -1,0 +1,14 @@
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\Main.exe
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\Main.pdb
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\obj\Debug\Main.exe
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Main\obj\Debug\Main.pdb

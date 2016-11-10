@@ -1,0 +1,5 @@
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\malturria\Desktop\TP_Final\Alturria.Maximiliano.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
